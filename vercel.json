@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/youtube-transcript.ts": {
+      "maxDuration": 30
+    }
+  }
+}
