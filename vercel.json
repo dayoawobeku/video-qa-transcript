@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/youtube-transcript.ts": {
+    "app/api/youtube-transcript/route.ts": {
       "maxDuration": 30
     }
   }
