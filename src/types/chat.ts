@@ -1,4 +1,6 @@
-export interface Message {
+import { Message as AIMessage } from "ai";
+
+export interface Message extends AIMessage {
   role: "user" | "assistant" | "system";
   content: string;
 }
